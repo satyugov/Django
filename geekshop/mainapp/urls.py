@@ -11,3 +11,6 @@ urlpatterns = [
     path('category/page/<int:page>/', products, name='page'),
     path('<int:pk>/', product, name='detail'),
 ]
+
+
+

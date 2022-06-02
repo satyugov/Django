@@ -3,3 +3,4 @@ pycache/
 *.py[cod]
 *$py.class
 .idea
+.env
