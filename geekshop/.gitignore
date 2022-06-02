@@ -4,3 +4,4 @@ pycache/
 *$py.class
 .idea
 .env
+.pyc
