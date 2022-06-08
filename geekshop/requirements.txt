@@ -9,6 +9,7 @@ cryptography==37.0.2
 defusedxml==0.7.1
 Django==4.0.4
 django-debug-toolbar==3.4.0
+django-debug-toolbar-template-profiler==2.0.2
 django-environ==0.8.1
 django-extensions==3.1.5
 Flask==2.1.2
@@ -41,5 +42,6 @@ sqlparse==0.4.2
 typing-extensions==4.2.0
 urllib3==1.26.9
 Werkzeug==2.1.2
+wrapt==1.14.1
 zope.event==4.5.0
 zope.interface==5.4.0
